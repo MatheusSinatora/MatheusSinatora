@@ -21,6 +21,7 @@ Olá, eu sou o Matheus Sinatora! 🇧🇷
   - Java
   - HTML
   - CSS
+  - LINUX
 
 ## sobre mim 👨🏻‍💻
 
