@@ -12,45 +12,30 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Arthur! 🇧🇷
+Olá, eu sou o Matheus Sinatora! 🇧🇷
 <br>
 
 </h3>
 
-```
-Estudante de Ciência da Computação pela UNIT - Centro Universitário Tiradentes, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
-```
 ## Tecnologias que estou estudando atualmente 💻
 
+  - Java
   - HTML
   - CSS
-  - JavaScript
-  - React
-  - Java
-  - MongoDB
-  - MySQL
 
-## Alguns fatos sobre mim 👨🏻‍💻
+## sobre mim 👨🏻‍💻
 
-- Eu tenho uma comunidade chamada Guia Dev Brasil que ajuda pessoas na área de computação. [:link:](https://linktr.ee/guiadevbrasil)
-- Tenho um repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/arthurspk/guiadevbrasil)
+- Sou estudante da Alura 💻
+- Sou estudante do Colégio Técnico de Limeira - COTIL 📚
+- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
-
-- Estou cursando Ciência da Computação. 💻
-
-## Meu Linktree [:link:](https://linktr.ee/arthurspk)
+- Estou cursando Técnico em Desenvolvimento de Sistemas. 💻
 
 ## Meus dados no Github
 
-<!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-</span> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussinatora&show_icons=true&theme=tokyonight)
+[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussinatora&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/matheussinatora/)
 
  ##
- ![Snake animation](https://github.com/JhonMeddev/JhonMeddev/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/matheussinatora/matheussinatora/blob/output/github-contribution-grid-snake.svg)
 <div> 
