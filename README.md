@@ -1,7 +1,6 @@
 
 
-### Olá, meu nome é Matheus Sinatora 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussinatora/)
+<h1 align="left">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,meu nome é Matheus Sinatora</h1>
 
  ##
  ![Snake animation](https://github.com/JhonMeddev/JhonMeddev/blob/output/github-contribution-grid-snake.svg)
