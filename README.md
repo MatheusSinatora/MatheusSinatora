@@ -1,7 +1,6 @@
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif)
+ ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/matheussinatora)](https://www.linkedin.com/in/matheussinatora/)
@@ -31,6 +30,8 @@ Olá, eu sou o Matheus Sinatora! 🇧🇷
 
 - Estou cursando Técnico em Desenvolvimento de Sistemas. 💻
 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
+
 ## Meus dados no Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussinatora&show_icons=true&theme=tokyonight)
@@ -39,3 +40,5 @@ Olá, eu sou o Matheus Sinatora! 🇧🇷
  ##
  ![Snake animation](https://github.com/matheussinatora/matheussinatora/blob/output/github-contribution-grid-snake.svg)
 <div> 
+ 
+ ![c633c20ede82f0e0ced7d570dbe3a1f3](https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif)
