@@ -30,7 +30,7 @@ Olá, eu sou o Matheus Sinatora! 🇧🇷
 
 - Estou cursando Técnico em Desenvolvimento de Sistemas. 💻
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
+
 
 ## Meus dados no Github
 
@@ -41,4 +41,5 @@ Olá, eu sou o Matheus Sinatora! 🇧🇷
  ![Snake animation](https://github.com/matheussinatora/matheussinatora/blob/output/github-contribution-grid-snake.svg)
 <div> 
  
+ ![c633c20ede82f0e0ced7d570dbe3a1f3](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
  ![c633c20ede82f0e0ced7d570dbe3a1f3](https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif)
