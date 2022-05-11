@@ -19,6 +19,7 @@ Olá, eu sou o Matheus Sinatora! 🇧🇷
 ## Tecnologias que estou estudando atualmente 💻
 
   - Java
+  - C#
   - HTML
   - CSS
   - Linux
